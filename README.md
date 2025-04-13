@@ -4,7 +4,7 @@
 
 ---
 
-## 📈 Strategy Overview
+## Strategy Overview
 
 - **Buy Signal:**
   - RSI < 30 (oversold)
@@ -18,7 +18,7 @@ This dual-confirmation system attempts to catch early momentum reversals.
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 - `Python 3`
 - `pandas` — data manipulation
@@ -28,13 +28,13 @@ This dual-confirmation system attempts to catch early momentum reversals.
 
 ---
 
-## 🧪 Backtest Performance
+##  Backtest Performance
 
 - Time period: 2020–2024 crude oil futures
 - Achieved **~20% ROI** in a simulated environment
 - Signals were visualized and overlaid on price charts for review
 
-### 📊 Example Output
+###  Example Output
 
 ![Trade Signals](artemis_signals.png)
 
@@ -48,7 +48,7 @@ A full technical write-up of the Artemis strategy — including trade logic, bac
 
 ---
 
-## 🚀 Future Plans
+##  Future Plans
 
 - Deploy strategy with **Alpaca API** for live paper trading
 - Add support for **SPY**, **QQQ**, and other ETFs
@@ -57,7 +57,7 @@ A full technical write-up of the Artemis strategy — including trade logic, bac
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 Artemis was independently developed as a personal exploration into quantitative trading and algorithmic strategy design. It is part of a broader initiative to apply data science in real-world finance and demonstrate technical fluency in a self-driven research context.
 
