@@ -63,6 +63,6 @@ Artemis was independently developed as a personal exploration into quantitative 
 
 ---
 
-## 🤝 License
+## License
 
 This project is open for educational use and personal experimentation. No financial advice provided.
